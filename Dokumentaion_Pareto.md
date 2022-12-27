@@ -3,6 +3,8 @@
 Team Pareto
 ## Projektname
 ParetoTrack
+## Version
+0.1
 ## Einleitung
 ## Einleitung
 - Vorstellen der Software
