@@ -89,6 +89,9 @@ CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD st
 CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment [^2].\
 Der CI/CD-Prozess ist wichtig, da Verteilungsprozesse durch ihn einfacher und vorhersehbarer werden. Darüber hinaus sorgt er für Konsistenz und Zuverlässigkeit im Software-Entwicklungsprozess, sodass Entwicklungsteams und Unternehmen besser zusammenarbeiten. Gleichzeitig werden die Kosten reduziert und die Anwendungen optimiert.
 
+###Entwicklungsprozess im CI/CD
+![](Documents/Beuth/SWT-Projekt/CI-CD.png)
+
 ### Build-Prozess
 
 ### Deploy-Prozess
