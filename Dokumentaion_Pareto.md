@@ -86,7 +86,7 @@ Webbrowser „Google Chrome“ oder „Microsoft Edge“ oder „Mozilla Firefox
 - Wie wird CI/CD in unserem Projekt umgesetzt?
 
 CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD steht für Continuous Integration/Continuous Delivery (fortlaufende Integration/fortlaufende Verteilung). Dabei handelt es sich um ein Verfahren zur Softwareverteilung, das von Entwicklungsteams verwendet wird, um Codeänderungen häufiger und zuverlässiger bereitzustellen. CI/CD beinhaltet zwei sich ergänzende Vorgehensweisen, die beide stark auf Automatisierung setzen [^1].\
-CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment[^2].\
+CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment [^2].\
 Der CI/CD-Prozess ist wichtig, da Verteilungsprozesse durch ihn einfacher und vorhersehbarer werden. Darüber hinaus sorgt er für Konsistenz und Zuverlässigkeit im Software-Entwicklungsprozess, sodass Entwicklungsteams und Unternehmen besser zusammenarbeiten. Gleichzeitig werden die Kosten reduziert und die Anwendungen optimiert.
 
 ### Build-Prozess
