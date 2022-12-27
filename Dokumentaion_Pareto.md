@@ -85,6 +85,8 @@ Webbrowser „Google Chrome“ oder „Microsoft Edge“ oder „Mozilla Firefox
 - Was ist datunter zu verstehen?
 - Wie wird CI/CD in unserem Projekt umgesetzt?
 
+CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment.
+
 ### Build-Prozess
 
 ### Deploy-Prozess
