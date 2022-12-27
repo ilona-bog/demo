@@ -1,4 +1,4 @@
-# Dokumentation
+# Dokumentation SWT-Projekt
 ## Teamname  
 Team Pareto
 ## Projektname
