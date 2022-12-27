@@ -90,7 +90,7 @@ CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und 
 Der CI/CD-Prozess ist wichtig, da Verteilungsprozesse durch ihn einfacher und vorhersehbarer werden. Darüber hinaus sorgt er für Konsistenz und Zuverlässigkeit im Software-Entwicklungsprozess, sodass Entwicklungsteams und Unternehmen besser zusammenarbeiten. Gleichzeitig werden die Kosten reduziert und die Anwendungen optimiert.
 
 ###Entwicklungsprozess im CI/CD
-![](Documents/Beuth/SWT-Projekt/CI-CD.png)
+![CI-CD](https://user-images.githubusercontent.com/63423057/209717224-6d428134-cd40-4d4b-9ca6-0b906100acb5.png)
 
 ### Build-Prozess
 
