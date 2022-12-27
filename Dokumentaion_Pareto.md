@@ -8,7 +8,7 @@ ParetoTrack
 
 ## Einleitung
 - Kurzbeschreibung und Vorstellen der Software
-- Zweck und Nutzen der SW
+- Zweck und Nutzen der Software
 
 ## Kurzbeschreibung
 Logistikunternehmen im Bereich Seefracht stehen vor der Herausforderung, dass sie den aktuellen Status ihrer Sendungen verfolgen müssen. Dies erfolgt in der Regel über die Webinterfaces der Reedereien.
