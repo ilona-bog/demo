@@ -85,7 +85,12 @@ Webbrowser „Google Chrome“ oder „Microsoft Edge“ oder „Mozilla Firefox
 - Was ist datunter zu verstehen?
 - Wie wird CI/CD in unserem Projekt umgesetzt?
 
-CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment.
+CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD steht für Continuous Integration/Continuous Delivery (fortlaufende Integration/fortlaufende Verteilung). Dabei handelt es sich um ein Verfahren zur Softwareverteilung, das von Entwicklungsteams verwendet wird, um Codeänderungen häufiger und zuverlässiger bereitzustellen. CI/CD beinhaltet zwei sich ergänzende Vorgehensweisen, die beide stark auf Automatisierung setzen [^1].\
+Footnote: https://www.splunk.com/de_de/data-insider/what-is-ci-cd-pipeline.html
+CI/CD ist eine Methode, bei der den Kunden regelmäßig Apps bereitgestellt und alle Phasen der Anwendungsentwicklungautomatisiert werden. Die Hauptkonzepte von CI/CD sind Continuous Integration, Continuous Delivery und Continuous Deployment.
+Footnote: https://www.redhat.com/de/topics/devops/what-is-ci-cd
+
+Der CI/CD-Prozess ist wichtig, da Verteilungsprozesse durch ihn einfacher und vorhersehbarer werden. Darüber hinaus sorgt er für Konsistenz und Zuverlässigkeit im Software-Entwicklungsprozess, sodass Entwicklungsteams und Unternehmen besser zusammenarbeiten. Gleichzeitig werden die Kosten reduziert und die Anwendungen optimiert.
 
 ### Build-Prozess
 
@@ -101,3 +106,6 @@ CI/CD ist eine Best Practice für DevOps und agile Softwareentwicklung. CI/CD is
 - Welche Funktionalitäten sind im aktuellen Stand enthalten?
 - Welche Funktionalitäten müssen/sollten in zukünftigen Versionen noch implementiert werden?
 - Welche Funktionalitäten werden nicht unterstützt (Abgenzung)?
+
+
+ [^1]: https://www.splunk.com/de_de/data-insider/what-is-ci-cd-pipeline.html
