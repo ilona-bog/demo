@@ -58,12 +58,10 @@ Die folgend genannten Systemkomponenten beziehen sich auf die erste Komponente z
 #### 2.1.1.2. Software
 Software auf dem Server
 
-
-Software auf dem Client
-
-
-## Methodisches Vorgehen in der SW-Entwicklung und in der Projektarbeit
-
+- VM via AWS
+- Apache TomCat Webserver in aktuellster Version
+- Java RTE
+- MySQL-Server
 
 ### Software-Stack
 
@@ -71,13 +69,8 @@ Software auf dem Client
 Python 3.10
 MySQL-Server
 
-#### auf dem Client
+#### Software auf dem Client
 Webbrowser „Google Chrome“ oder „Microsoft Edge“ oder „Mozilla Firefox“ oder „Apple Safari“ bzw. Webbrowser mit der aktuellesten Version der Blink-Engine oder Chromium-Engine oder Edge-HTML oder WebKit-Enging oder Mozilla-Engine
-
-## Voraussetzungen
-
-### Hardware
-
 
 ## Beschreibung des DevOps
 
